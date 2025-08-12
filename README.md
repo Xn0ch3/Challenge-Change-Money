@@ -52,11 +52,17 @@ La aplicación está funcionando correctamente para las conversiones básicas, p
 ## Acceso al Proyecto
 
 1. Clonar el repositorio:
-
-   ```bash
+      ```bash
    git clone https://github.com/Xn0ch3/Challenge-Change-Money.git
+      
+2. Abrir el proyecto en tu IDE favorito (IntelliJ IDEA, Eclipse, VSCode, etc.).
+   
+3. Ejecutar la clase principal Main.java que se encuentra en:
+   
+   src/main/java/com/xnochell/exchange/Main.java
 
-##Tecnologías Utilizadas
+## Tecnologías Utilizadas
+
 Java 17+
 
 Gson para manejo de JSON
@@ -65,11 +71,15 @@ API externa ExchangeRate-API para tasas de cambio
 
 Sistema de archivos local para historial
 
-##Personas Contribuyentes
-Xavier Nochelli
+## Personas Contribuyentes
+👨‍💻 [Xavier Nochelli](https://github.com/Xn0ch3)
 
-##Personas Desarrolladoras del Proyecto
-Xavier Nochelli
+## Personas Desarrolladoras del Proyecto
+👨‍💻 [Xavier Nochelli](https://github.com/Xn0ch3)
 
-##Licencia
-Este proyecto está bajo la licencia MIT - ver el archivo LICENSE para más detalles.
+## Licencia
+Este proyecto está bajo la licencia MIT. Para más detalles, consultar el archivo LICENSE incluido en el repositorio.
+
+📄 Texto completo de la licencia MIT:
+https://opensource.org/licenses/MIT
+
