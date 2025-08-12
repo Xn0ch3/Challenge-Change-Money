@@ -1,0 +1,17 @@
+[
+  {
+    "moneda_origen": "USD",
+    "monto_origen": 400.0,
+    "moneda_destino": "ARS",
+    "monto_destino": 532200.0,
+    "fecha": "12/08/2025 01:37:43"
+  },
+  {
+    "moneda_origen": "ARS",
+    "monto_origen": 500000.0,
+    "moneda_destino": "USD",
+    "monto_destino": 375.79999999999995,
+    "fecha": "12/08/2025 01:37:51"
+  }
+]
+
